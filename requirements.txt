@@ -6,3 +6,7 @@ python-dotenv
 pytest
 pytest-asyncio
 aiomysql
+httpx
+pydantic
+email-validator
+pydantic[email]
